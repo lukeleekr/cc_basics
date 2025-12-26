@@ -1,0 +1,8 @@
+# Claude Code session data
+.claude/
+
+# VS Code settings (optional - remove this line if you want to commit VS Code settings)
+.vscode/
+
+# Other repositories
+golden-rabbit-yojeum-claude-code-crypto-ranking-board/

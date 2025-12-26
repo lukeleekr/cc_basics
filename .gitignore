@@ -4,5 +4,7 @@
 # VS Code settings (optional - remove this line if you want to commit VS Code settings)
 .vscode/
 
-# Other repositories
-golden-rabbit-yojeum-claude-code-crypto-ranking-board/
+# Node.js
+node_modules/
+.next/
+.idea/
